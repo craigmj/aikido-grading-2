@@ -1,6 +1,6 @@
 # Thinking on the Syllabus
 
-My 5:40 changes to README on 17 Oct 2017.
+Upstream changes at 1009.
 
 TEST. A change by capetownAikido.
 These changes I've made on 170928

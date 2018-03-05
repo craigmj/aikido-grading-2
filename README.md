@@ -1,6 +1,6 @@
 # Thinking on the Syllabus
 
-CHanges I'm making as CTA on 5 Mar 2018.
+Changes I'm making as CTA and Craigmj on 5 Mar 2018.
 
 Upstream changes at 1009.
 Changes at 1020.

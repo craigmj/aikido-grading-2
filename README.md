@@ -1,5 +1,7 @@
 # Thinking on the Syllabus
 
+Changes I'm making as CraigmJ on 5 Mar 2018.
+
 Upstream changes at 1009.
 Changes at 1020.
 Changes by CMJ at 1029.

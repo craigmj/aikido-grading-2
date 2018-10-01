@@ -19,3 +19,5 @@ Minor change.
 I'm making some changes to README in capetownaikido. I wonder whether I made the others in craigmj, or wheter I mistakenly wrote CapeTownAikido there as well...
 
 test
+
+A change by CapeTownAikido.
